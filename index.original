@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>MD Enseignes inc. est le spécialiste dans le domaine de la fabrication, de l’installation et de la réparation d’enseignes publicitaires sur la Rive-Sud.</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="enseigne drummondville, enseigne, enseignes, enseignes beloeil, enseignes chambly, enseigne rive sud, enseignes montreal" name="keywords">
+  <meta content="MD Enseignes inc fait la conception, la fabrication, l'installation et la réparation d'enseignes lumineuses ou non, enseigne sur pylone, enseigne rive-sud, lettrage, impression numérique" name="description">
+  <meta content="enseignes drummondville" name="Abstract">
+  <meta content="enseignes" name="Owner">
+  <meta content="enseigne saint hyacinthe" name="AUTHOR">
+  <meta content="MD Enseignes inc, tous droits réservés" name="COPYRIGHT">
+  <meta content="Concept-Web" name="PUBLISHER">
+  <meta content="General" name="RATING">
+  <meta content="Global" name="Distribution">
+  <meta content="Completed" name="Document-class">
+  <meta content="General" name="Document-rating">
+  <meta content="Quebec, Canada, Amerique du Nord" name="Document-classification">
+  <meta content="Public" name="Cache-control">
+  <meta content="Public" name="Document-right">
+  <meta content="index, follow" name="Robots">
+  <meta content="30 days" name="Revisit-after">
+  <meta content="20190501" name="Date-creation">
+  <meta content="https://enseignes.groupemd.com" name="Identifier-url">
+  <meta content="fr-ca" name="Language">
+  <meta property="og:title" content="MD Enseignes"/>
+  <meta property="og:url" content="https://enseignes.groupemd.com/"/>
+  <meta property="og:image" content="https://enseignes.groupemd.com/image/MD-Enseignes-Fabricant-Enseigne-Rive-Sud.jpg"/>
+  <meta property="og:description"
+          content="Depuis plus de 30 ans, MD Enseignes inc. est le spécialiste dans le domaine de la fabrication, de l’installation et de la réparation d’enseignes publicitaires. Nous desservons principalement la grande région de la Rive-Sud de Montréal avec un service qui se démarque par son haut niveau de qualité."/>
+  <link href="image/favicon.png" rel="icon">
+  <link href="image/favicon.png" rel="apple-touch-icon">
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+  <link href="css/home.min.css" rel="stylesheet">
+</head>
+<body>
+  <header id="header">
+    <div class="container-fluid">
+      <div id="logo" class="pull-left">
+        <h1><a href="//enseignes.groupemd.com/"><img src="image/md-enseignes-logo.png" alt="fabrication enseigne, reparation enseigne, reparation enseigne rive-sud" title="enseigne, enseignes, enseigne rive-sud, enseignes rive sud, enseigne saint julie, reparation enseignes saint julie, reparation enseignes beloeil" /></a></h1>
+      </div>
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="//enseignes.groupemd.com/" alt="enseignes saint hyacinthe" title="réparation enseignes neon">Accueil</a></li>
+          <li class="menu-has-children"><a href="" alt="enseigne saint hyacinthe" title="enseigne saint hyacinthe">Enseignes</a>
+            <ul>
+              <li><a href="enseignes-non-lumineuses.html" alt="enseigne non lumineuse" title="enseignes non lumineuses">Enseignes Non-Lumineuses</a></li>
+              <li><a href="enseignes-lumineuses.html" alt="enseigne lumineuse" title="fabrication enseigne lumineuse">Enseignes Lumineuses</a></li>
+              <li><a href="enseignes-interieur.html" alt="fabrication enseigne intérieur" title="fabrication enseigne interieur">Enseignes Intérieurs</a></li>
+              <li><a href="lettres-3d-channel.html" alt="fabrication channel" title="fabrication lettre 3d channel">Lettres 3D Channel</a></li>
+              <li><a href="lettres-3d-channel-renverse.html" alt="channel renverser" title="fabrication lettre 3d reversé, channel renveré saint hyacinthe">Lettres 3D Renversé</a></li>
+              <li><a href="lettres-pvc.html" alt="lettre pvc peint" title="decoupe de lettre pvc pour enseigne">Lettres PVC</a></li>
+              <li><a href="lettres-acryliques.html" alt="lettre acrylique" title="enseigne">Lettres Acryliques</a></li>
+              <li><a href="panneaux-et-affiches.html" alt="affiche publicitaire" title="affiche publicitaire saint hyacinthe">Panneaux et affiches</a></li>
+            </ul>
+          </li>
+          <li><a href="lettrages.html" alt="lettrage" title="lettrage de véhicule, lettrage de vitrine, lettrage de voiture, lettrage saint hyacinthe">Lettrages</a></li>
+          <li><a href="impressions-numeriques.html" alt="impression numerique" title="impression affiche publicitaire saint hyacinthe">Impressions Numériques</a></li>
+          <li><a href="nous-joindre.html" title="MD Enseignes">Nous Joindre</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <section id="intro">
+    <div class="intro-container">
+      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+        <ol class="carousel-indicators"></ol>
+        <div class="carousel-inner" role="listbox">
+          <div class="carousel-item active" style="background-image: url('image/slider/MD-Enseignes-centre-du-jardin-Saint-Césaire.jpeg');" alt="enseigne">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 style="color:#dcbe85" alt="enseigne, enseignes, enseigne sur poteau, enseigne lumineuse, enseignes lumineuses, enseigne saint hyacinthe, enseigne rive sud" tile="fabrication enseigne lumineuse sur poteau">Fabricant d’enseignes</h2>
+                <p>Enseignes lumineuses, Enseignes non-lumineuses, Channel et autres, MD Enseignes inc vous offre un vaste choix</p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" style="background-image: url('image/slider/Lettrage-MD-Enseignes-Sainte-Madeleine.JPG');" alt="lettrage, lettrage de vitrine, lettrage de camion, lettrage rive sud, lettrage saint hyacinthe">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 style="color:#dcbe85" title="Lettrage Saint Hyacinthe, Lettrage de Vitrine, Lettrage de Camion, Lettrage Auto, vynile">Lettrages</h2>
+                <p></p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" style="background-image: url('image/slider/impression-numerique-saint-hyacinthe.jpg');" alt="impression publicitaire saint hyacinthe">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 style="color:#dcbe85" title="Impression d’affiches sur coroplast, Impression d’affiches sur aluminium, Impression pour Roll-Up, Impression de bannières, Lettrage de véhicule, Découpe de vinyle">Impressions Numériques</h2>
+                <p></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">enseigne</span>
+        </a>
+        <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">enseignes</span>
+        </a>
+      </div>
+    </div>
+  </section>
+  <main id="main">
+    <section id="featured-services">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 box">
+            <h4 class="title"><a href="" title="Projet Enseignes Clé en Main">Clé en Main</a></h4>
+            <p class="description">C’est avec plaisir que nous vous offrons le service clé en main !</p>
+          </div>
+          <div class="col-lg-4 box box-bg">
+            <h4 class="title"><a href="">Demande de permis municipale</a></h4>
+            <p class="description">Nous vous offrons la possibilité de vous informer sur la règlementation en vigueur dans votre région et vous conseiller sur les meilleures possibilités d’affichage pour vous.</p>
+          </div>
+          <div class="col-lg-4 box">
+            <h4 class="title"><a href="" title="Fabrication et Installation Enseignes Hautes Gammes">Fabrication et installation</a></h4>
+            <p class="description"> Enseignes lumineuses ou non, impressions numériques, panneaux publicitaires et bannières ne sont que quelques possibilités offertes chez MD Enseignes inc.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="about">
+      <div class="container">
+        <header class="section-header">
+          <h3 title="Fabrication Enseigne Rive-Sud">Nos Services</h3>
+          <p></p>
+        </header>
+        <div class="row about-cols">
+          <div class="col-md-4 wow fadeInUp">
+            <div class="about-col">
+              <div class="img">
+                <img src="image/service/fabrication.jpg" alt="fabrication enseigne beloeil" class="img-fluid" height="350" width="350" title="fabrication enseigne">
+              </div>
+              <h2 class="title" title="Fabrication enseigne rive-sud"><a href="#">Fabrication Enseignes</a></h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="about-col">
+              <div class="img">
+                <img src="image/service/installation-enseignes-MD-Enseignes.jpg" alt="installation enseigne" class="img-fluid" height="350" width="350" title="installation enseigne">
+              </div>
+              <h2 class="title" title="Installation Enseignes"><a href="#">Installation Enseignes</a></h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="about-col">
+              <div class="img">
+                <img src="image/service/reparation.jpg" alt="reparation enseigne" class="img-fluid" height="350" width="350" title="Réparation Enseigne">
+              </div>
+              <h2 class="title" title="Réparation Enseigne Rive-Sud"><a href="#">Réparation d'enseignes</a></h2>
+              <p></p>
+            </div>
+          </div>
+        </div>
+        <div class="row about-cols">
+          <div class="col-md-4 wow fadeInUp">
+            <div class="about-col">
+              <div class="img">
+                <img src="image/service/impressions-numerique.jpg" alt="impression numerique" class="img-fluid" height="350" width="350" title="Impression Numérique">
+              </div>
+              <h2 class="title" title="Impression Numérique Saint-Hyacinthe"><a href="#">Impressions Numériques</a></h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="about-col">
+              <div class="img">
+                <img src="image/service/lettrage.jpg" alt="lettrage, lettrage de vitrine, lettrage de voiture, lettrage de camion, lettrage de remorque" class="img-fluid" height="350" width="350" title="Lettrage Saint-Hyacinthe">
+              </div>
+              <h2 class="title" title="Lettrage Saint-Hyacinthe"><a href="#">Lettrages</a></h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="about-col">
+              <div class="img">
+                <img src="image/service/cnc.jpg" alt="decoupe cnc, decoupe numerique, decoupe informatiser" class="img-fluid" height="350" width="350" title="Découpe CNC">
+              </div>
+              <h2 class="title" title="Découpe CNC"><a href="#">Découpe Numérique CNC</a></h2>
+              <p></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="contact" class="section-bg wow fadeInUp">
+      <div class="container">
+        <div class="section-header">
+          <h3 title="MD Enseignes Sainte-Madeleine">Nous Joindre</h3>
+          <p>Électricité MD Enseignes</p>
+        </div>
+        <div class="row contact-info">
+          <div class="col-md-4">
+            <div class="contact-address">
+              <i class="ion-ios-location-outline"></i>
+              <h3 title="md enseigne">Bureau</h3>
+              <address>316 Rue Saint-Jean-Baptiste, Sainte-Madeleine, QC J0H 1S0</address>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="contact-phone">
+              <i class="ion-ios-telephone-outline"></i>
+              <h3 title="md enseignes">Téléphone</h3>
+              <p><a href="tel:+14507953158">450 795-3158</a></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="contact-email">
+              <i class="ion-ios-email-outline"></i>
+              <h3 title="MD Enseignes">Email</h3>
+              <p><a href="mailto:mdenseignes@groupemd.com">mdenseignes@groupemd.com</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="form">
+          <div id="sendmessage">Your message has been sent. Thank you!</div>
+          <div id="errormessage"></div>
+          <form action="" method="post" role="form" class="contactForm">
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                <div class="validation"></div>
+              </div>
+              <div class="form-group col-md-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Votre Courriel" data-rule="email" data-msg="Please enter a valid email" />
+                <div class="validation"></div>
+              </div>
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Sujet" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+              <div class="validation"></div>
+            </div>
+            <div class="form-group">
+              <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+              <div class="validation"></div>
+            </div>
+            <div class="text-center"><button type="submit">Envoyer</button></div>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6 footer-info">
+            <h4 title="MD Enseignes">À Propos</h4>
+            <p>Depuis plus de 30 ans, MD Enseignes inc. est le spécialiste dans le domaine de la fabrication, de l’installation et de la réparation d’enseignes publicitaires. Nous desservons principalement la grande région de la Rive-Sud de Montréal avec un service qui se démarque par son haut niveau de qualité.</p>
+          </div>
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Liens Utiles</h4>
+            <ul>
+              <li><i class="ion-ios-arrow-right"></i> <a href="//enseignes.groupemd.com">Accueil</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="//electricite.groupemd.com#">Électricité MD</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4 title="MD Enseignes">Nous Joindre</h4>
+            <p>
+              316, rue Saint-Jean-Baptiste<br>
+              Sainte-Madeleine<br>
+              Québec, J0H 1S0<br>
+              <strong>Téléphone:</strong> 450 795-3158<br>
+              <strong>Courriel:</strong> mdenseignes@groupemd.com<br>
+            </p>
+            <div class="social-links">
+              <a href="https://www.facebook.com/groupemd/" class="facebook"><i class="fa fa-facebook"></i></a>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 footer-newsletter">
+            <h4>Tag Cloud</h4>
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>MD Enseignes inc</strong>.© 2013-2019 Tous droits réservés. | Une Conception de Concept-Web
+      </div>
+    </div>
+  </footer>
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

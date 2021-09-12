@@ -1,0 +1,3 @@
+Users-agent:*
+Disallow
+Sitemap: https://enseignes.groupemd.com/sitemap.xml
